@@ -41,18 +41,7 @@ It showcases creative works, inspirational quotes, project progress, and a styli
 
 ---
 
-## 📸 Screenshots
 
-### Navbar & Hero Section
-*(Add screenshot here)*
-
-### Card Showcase
-*(Add screenshot here)*
-
-### Project Progress Table
-*(Add screenshot here)*
-
----
 
 ## 🚀 Getting Started
 
