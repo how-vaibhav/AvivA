@@ -1,0 +1,115 @@
+body::before {
+  content: "XS";
+  color: red;
+  font-size: 2rem;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+.tablePad {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.table thead th {
+  background-color: #4e54c8;
+  color: white;
+}
+#randomText {
+  font-size: xx-large;
+  font-weight: 500;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+@media (min-width: 576px) {
+  body::before {
+    content: "SM";
+  }
+}
+
+@media (min-width: 768px) {
+  body::before {
+    content: "MD";
+  }
+}
+
+@media (min-width: 992px) {
+  body::before {
+    content: "LG";
+  }
+}
+
+@media (min-width: 1200px) {
+  body::before {
+    content: "XL";
+  }
+}
+
+@media (min-width: 1400px) {
+  body::before {
+    content: "XXL";
+  }
+}
+.instaImages {
+  display: inline-flex;
+  justify-content: centre;
+  gap: 40px;
+  padding: 0 90px 40px;
+  margin-top: 100px; /* This margin just makes the text easier to read. You can remove it if you want since it can mess with your other styles. */
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  background-color: #f381e2; /* Optional: darker on hover */
+}
+.arrange {
+  display: inline-flex;
+  justify-content: centre;
+  gap: 120px;
+}
+@keyframes fadeSlideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+a:hover {
+  color: #ffffff !important;
+}
+
+.navbar-artistic {
+  background: linear-gradient(90deg, #068d59, #8f94fb);
+  font-family: "Segoe UI", sans-serif;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white !important;
+}
+.nav-link {
+  color: white !important;
+  font-weight: 500;
+  margin: 0 10px;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+.dropdown-menu {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+.form-control {
+  border-radius: 20px;
+}
+.search-box {
+  width: 200px;
+}
