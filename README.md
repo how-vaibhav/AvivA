@@ -58,4 +58,4 @@ It showcases creative works, inspirational quotes, project progress, and a styli
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/how-vaibhav/AvivA-portfolio.git
+git clone https://github.com/how-vaibhav/AvivA.git
