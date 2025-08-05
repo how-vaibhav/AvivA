@@ -41,6 +41,12 @@ It showcases creative works, inspirational quotes, project progress, and a styli
 
 ---
 
+## 📜 License
+
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+---
 
 
 ## 🚀 Getting Started
@@ -48,3 +54,5 @@ It showcases creative works, inspirational quotes, project progress, and a styli
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/how-vaibhav/AvivA.git
+
+
