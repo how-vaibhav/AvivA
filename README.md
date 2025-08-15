@@ -47,6 +47,7 @@ It showcases creative works, inspirational quotes, project progress, and a styli
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
+---
 
 
 ## 🚀 Getting Started
