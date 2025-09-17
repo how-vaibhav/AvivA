@@ -28,7 +28,7 @@ It showcases creative works, inspirational quotes, project progress, and a styli
 - **Polished Footer**
   - Social media icons with hover animations
   - Clean, centered layout
-  - Logo placement for Branding
+  - Logo placement for branding
 
 ---
 
